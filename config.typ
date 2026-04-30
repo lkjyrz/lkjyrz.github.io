@@ -11,7 +11,9 @@
   header-links: (
     "/": "首页",
     "/Docs/": "文档",
-    "/Blog/": "博客",
+    "/Blog/": "日常博客",
+    "/Math/": "数学",
+    "/Python/": "Python",
     "/CV/": "简历",
   ),
   
